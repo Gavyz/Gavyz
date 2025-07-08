@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm 18 and I like coding.</p>
+<p align="left"></p>
 
 ###
 
